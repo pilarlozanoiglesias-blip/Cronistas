@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260525192948LB6YHR</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605251929481LARXG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ecos de revolución</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto &quot;Cronistas digitales&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pilar Lozano Iglesias</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto para 6º de Primaria en el que se profundizará en las grandes revoluciones de la Edad Contemporánea. El alumnado se convertirá en un equipo de &quot;corresponsales del pasado&quot;. El objetivo es que investiguen los cambios sociales, políticos y tecnológicos que trajeron las revoluciones y los desarrollen en un videotutorial explicativo que se quede en el centro como material repositorio para futuros cursos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779730133670</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mplhdbwm-vqatcme7g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ecos de revolución</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ecos de revolución</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Ecos de revolución</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwm-vqatcme7g</odePageId>
+      <odeBlockId>block-1779642377566-4sgs2pvdy</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwm-vqatcme7g</odePageId>
+          <odeBlockId>block-1779642377566-4sgs2pvdy</odeBlockId>
+          <odeIdeviceId>idevice-1779642377566-vukorgpyf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/ecos_de_revolucion_portada_600_ancho.png" title="Portada del proyecto "Cronistas digitales"" width="600" height="310" alt="Portada del proyecto "Cronistas digitales"" style="display: block; margin-left: auto; margin-right: auto;" />Imagen generada por IA para uso educativo. Fuente: Google Gemini.<br />Licencia: CC BY-SA 4.0. Atribución a Pilar y Proyecto Cronistas Digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779642377566-vukorgpyf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ecos_de_revolucion_portada_600_ancho.png\" title=\"Portada del proyecto \"Cronistas digitales\"\" width=\"600\" height=\"310\" alt=\"Portada del proyecto \"Cronistas digitales\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />Imagen generada por IA para uso educativo. Fuente: Google Gemini.<br />Licencia: CC BY-SA 4.0. Atribución a Pilar y Proyecto Cronistas Digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwp-pdymb8iky</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. ¡Bienvenid@S, cronistas!</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¡Bienvenid@S, cronistas!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2- INICIO: ¡BIENVENID@S CRONISTAS!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. ¡Bienvenid@S, cronistas!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwp-pdymb8iky</odePageId>
+      <odeBlockId>block-1778092298280-1pk5vow73</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwp-pdymb8iky</odePageId>
+          <odeBlockId>block-1778092298280-1pk5vow73</odeBlockId>
+          <odeIdeviceId>idevice-1778092298279-imbabc8mp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🏛️ ¡BIENVENID@S, CRONISTAS DIGITALES!<br />¡Hola, equipo de investigación!</p>
+<p>¿Alguna vez os habéis preguntado por qué hoy podemos ir al colegio, votar o trabajar en lo que nos gusta? Nada de esto fue gratis. Hace más de 200 años, el mundo cambió para siempre con las Revoluciones Francesa e Industrial. Fue un tiempo de inventos increíbles, máquinas de vapor, pero también de luchas por la libertad.</p>
+<p><br /></p>
+<p>🕵️‍♂️ <strong>Vuestra Misión</strong><br />No vamos a estudiar la historia... ¡vamos a contarla! Os habéis convertido en l@s nuev@s Cronistas Digitales. Vuestro objetivo es investigar qué pasó en aquellas épocas y crear un videotutorial que explique al resto del mundo cómo aquellas revoluciones dieron forma a nuestra vida actual en Andalucía y España.</p>
+<p><br /></p>
+<p>🚀 <strong>¿Qué vamos a aprender?</strong><br /></p>
+<ul>
+<li>A investigar como auténticos detectives en internet.</li>
+<li>A usar herramientas de edición de vídeo profesionales (OpenShot).</li>
+<li>A trabajar en equipo compartiendo ideas en la nube (CryptPad).</li>
+<li>A respetar el trabajo de los demás y cuidar nuestra seguridad en la red.</li>
+</ul>
+<p style="text-align: center;">¿Estáis preparados para que vuestra voz pase a la historia?<br />¡Haced clic en el menú de la izquierda y que comience la aventura!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778092298279-imbabc8mp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🏛️ ¡BIENVENID@S, CRONISTAS DIGITALES!<br />¡Hola, equipo de investigación!</p>\n<p>¿Alguna vez os habéis preguntado por qué hoy podemos ir al colegio, votar o trabajar en lo que nos gusta? Nada de esto fue gratis. Hace más de 200 años, el mundo cambió para siempre con las Revoluciones Francesa e Industrial. Fue un tiempo de inventos increíbles, máquinas de vapor, pero también de luchas por la libertad.</p>\n<p><br /></p>\n<p>🕵️‍♂️ <strong>Vuestra Misión</strong><br />No vamos a estudiar la historia... ¡vamos a contarla! Os habéis convertido en l@s nuev@s Cronistas Digitales. Vuestro objetivo es investigar qué pasó en aquellas épocas y crear un videotutorial que explique al resto del mundo cómo aquellas revoluciones dieron forma a nuestra vida actual en Andalucía y España.</p>\n<p><br /></p>\n<p>🚀 <strong>¿Qué vamos a aprender?</strong><br /></p>\n<ul>\n<li>A investigar como auténticos detectives en internet.</li>\n<li>A usar herramientas de edición de vídeo profesionales (OpenShot).</li>\n<li>A trabajar en equipo compartiendo ideas en la nube (CryptPad).</li>\n<li>A respetar el trabajo de los demás y cuidar nuestra seguridad en la red.</li>\n</ul>\n<p style=\"text-align: center;\">¿Estáis preparados para que vuestra voz pase a la historia?<br />¡Haced clic en el menú de la izquierda y que comience la aventura!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwp-4i8tm5j8k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Descripción</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1- PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwp-4i8tm5j8k</odePageId>
+      <odeBlockId>block-1778091880271-05yb29j86</odeBlockId>
+      <blockName></blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwp-4i8tm5j8k</odePageId>
+          <odeBlockId>block-1778091880271-05yb29j86</odeBlockId>
+          <odeIdeviceId>idevice-1778091880269-96mfggipz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/ChatGPT Image 24 may 2026, 19_25_03.png" width="1478" height="985" alt="" />Imagen generada por IA para uso educativo. Fuente: ChatGPT (OpenAI, GPT/DALL·E).<br />Licencia: CC BY-SA 4.0. Atribución a Pilar y Proyecto Cronistas Digitales.</p>
+<p><br /></p>
+<p style="text-align: center;">PROYECTO: "ECOS DE REVOLUCIÓN: CRONISTAS DIGITALES"</p>
+<p><strong>1. Datos técnicos del proyecto</strong></p>
+<ul>
+<li>Título: <em>Ecos de Revolución: Cronistas Digitales.</em></li>
+<li>Centro de interés: las grandes revoluciones contemporáneas y su impacto en la sociedad actual.</li>
+<li>Nivel: 6.º de Educación Primaria.</li>
+<li>Temporalización: 3 semanas (9 sesiones).</li>
+<li>Materias implicadas: 
+<ul>
+<li>Conocimiento del Medio: contenidos de historia (Rev. Francesa e Industrial).</li>
+<li>Lengua Castellana: elaboración de guiones expositivos y expresión oral.</li>
+<li>Educación Artística / Cultura Digital: edición de vídeo y ética de la privacidad.</li>
+</ul>
+</li>
+<li>Idioma: castellano.</li>
+</ul>
+<p><br /></p>
+<p><strong>2. Descripción general y herramientas</strong></p>
+<p>El alumnado se convertirá en un equipo de "corresponsales del pasado". El objetivo es que investiguen los cambios sociales, políticos y tecnológicos que trajeron las revoluciones y los desarrollen en un videotutorial explicativo que se quede en el centro como material repositorio para futuros cursos.</p>
+<p>Para garantizar la protección de datos, el proyecto se desarrollará bajo las siguientes premisas:</p>
+<ul>
+<li>Investigación: Uso de buscadores que no rastrean al usuario (DuckDuckGo).</li>
+<li>Planificación: Creación de guiones en CryptPad (herramienta de código abierto, cifrada y sin necesidad de registro).</li>
+<li>Producción: Edición de vídeo mediante OpenShot o Shotcut. Programas de software libre que se instalarán localmente en los ordenadores del centro; los datos no salen del ordenador que cada alumn@ tiene y no necesitan cuentas de correo electrónico del alumnado. Así tampoco dependemos de la alternancia inestable del wifi de nuestro centro, y no sufrimos, como se compartió en la actividad anterior, del estrés de “apagar fuegos” improvisando soluciones.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091880269-96mfggipz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 24 may 2026, 19_25_03.png\" width=\"1478\" height=\"985\" alt=\"\" />Imagen generada por IA para uso educativo. Fuente: ChatGPT (OpenAI, GPT/DALL·E).<br />Licencia: CC BY-SA 4.0. Atribución a Pilar y Proyecto Cronistas Digitales.</p>\n<p><br /></p>\n<p style=\"text-align: center;\">PROYECTO: \"ECOS DE REVOLUCIÓN: CRONISTAS DIGITALES\"</p>\n<p><strong>1. Datos técnicos del proyecto</strong></p>\n<ul>\n<li>Título: <em>Ecos de Revolución: Cronistas Digitales.</em></li>\n<li>Centro de interés: las grandes revoluciones contemporáneas y su impacto en la sociedad actual.</li>\n<li>Nivel: 6.º de Educación Primaria.</li>\n<li>Temporalización: 3 semanas (9 sesiones).</li>\n<li>Materias implicadas: \n<ul>\n<li>Conocimiento del Medio: contenidos de historia (Rev. Francesa e Industrial).</li>\n<li>Lengua Castellana: elaboración de guiones expositivos y expresión oral.</li>\n<li>Educación Artística / Cultura Digital: edición de vídeo y ética de la privacidad.</li>\n</ul>\n</li>\n<li>Idioma: castellano.</li>\n</ul>\n<p><br /></p>\n<p><strong>2. Descripción general y herramientas</strong></p>\n<p>El alumnado se convertirá en un equipo de \"corresponsales del pasado\". El objetivo es que investiguen los cambios sociales, políticos y tecnológicos que trajeron las revoluciones y los desarrollen en un videotutorial explicativo que se quede en el centro como material repositorio para futuros cursos.</p>\n<p>Para garantizar la protección de datos, el proyecto se desarrollará bajo las siguientes premisas:</p>\n<ul>\n<li>Investigación: Uso de buscadores que no rastrean al usuario (DuckDuckGo).</li>\n<li>Planificación: Creación de guiones en CryptPad (herramienta de código abierto, cifrada y sin necesidad de registro).</li>\n<li>Producción: Edición de vídeo mediante OpenShot o Shotcut. Programas de software libre que se instalarán localmente en los ordenadores del centro; los datos no salen del ordenador que cada alumn@ tiene y no necesitan cuentas de correo electrónico del alumnado. Así tampoco dependemos de la alternancia inestable del wifi de nuestro centro, y no sufrimos, como se compartió en la actividad anterior, del estrés de “apagar fuegos” improvisando soluciones.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwq-e9vud45il</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Misión: el videotutorial</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Misión: el videotutorial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5- MISIÓN: EL VIDEOTUTORIAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Misión: el videotutorial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwq-e9vud45il</odePageId>
+      <odeBlockId>block-1778174746047-scp3726go</odeBlockId>
+      <blockName></blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwq-e9vud45il</odePageId>
+          <odeBlockId>block-1778174746047-scp3726go</odeBlockId>
+          <odeIdeviceId>idevice-1778174746046-xx7ry6hz1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/ChatGPT Image 24 may 2026, 19_31_33.png" width="1478" height="985" alt="" /><br />Imagen generada por IA para uso educativo. Fuente: ChatGPT (OpenAI, GPT/DALL·E).<br />Licencia: CC BY-SA 4.0. Atribución a Pilar y Proyecto Cronistas Digitales.</p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: left;"><strong>🛠️ NUESTRO KIT DE MONTAJE: ¡A EDITAR!</strong><br />Para que vuestros documentales históricos queden de cine, vamos a utilizar herramientas que son libres, seguras y profesionales. Aquí os explicamos cuáles son y por qué las hemos elegido para nuestro equipo de Cronistas:</p>
+<p>🎬 OpenShot: Vuestro estudio de cine personal<br />Para montar el vídeo final, usaremos OpenShot. Es el programa que ya tenéis instalado en vuestros ordenadores del cole (Guadalinex/Linux) y nos encanta por cuatro razones:</p>
+<p>¡Es súper fácil!: solo tenéis que "arrastrar y soltar" vuestras fotos, vídeos y audios. ¡En un par de clics tendréis vuestro montaje listo!<br />Máxima Privacidad: no necesitamos correos, ni registros, ni contraseñas. Todo vuestro trabajo se queda en vuestro ordenador. ¡Vuestros datos están a salvo!<br />Para tod@s: Si queréis seguir trabajando en casa, podéis descargarlo gratis en cualquier ordenador. Es legal, ético y libre de virus.<br />Multicapa: Podréis poner música de fondo, vuestra voz por encima y títulos chulos al mismo tiempo.<br />📝 CryptPad: Vuestro guion compartido<br />Antes de grabar, hay que escribir. Para ello usaremos CryptPad. Es como una hoja de papel mágica donde todo el equipo puede escribir a la vez desde distintos ordenadores.</p>
+<p>Lo mejor: todo lo que escribáis está cifrado. Nadie más que vuestro equipo y yo podrá leer vuestro guion.<br /> <br />💡 CONSEJOS DE CRONISTA:<br />Sé ético: Recuerda usar imágenes y música de nuestro Symbaloo (son libres y seguras).<br />Guarda a menudo: Aunque OpenShot es muy estable, ¡no te olvides de darle al botón de guardar proyecto!<br />Ayuda a tu equipo: Si dominas una herramienta, conviértete en el "Experto Digital" de tu grupo y echa un cable a los demás.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174746046-xx7ry6hz1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 24 may 2026, 19_31_33.png\" width=\"1478\" height=\"985\" alt=\"\" /><br />Imagen generada por IA para uso educativo. Fuente: ChatGPT (OpenAI, GPT/DALL·E).<br />Licencia: CC BY-SA 4.0. Atribución a Pilar y Proyecto Cronistas Digitales.</p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: left;\"><strong>🛠️ NUESTRO KIT DE MONTAJE: ¡A EDITAR!</strong><br />Para que vuestros documentales históricos queden de cine, vamos a utilizar herramientas que son libres, seguras y profesionales. Aquí os explicamos cuáles son y por qué las hemos elegido para nuestro equipo de Cronistas:</p>\n<p>🎬 OpenShot: Vuestro estudio de cine personal<br />Para montar el vídeo final, usaremos OpenShot. Es el programa que ya tenéis instalado en vuestros ordenadores del cole (Guadalinex/Linux) y nos encanta por cuatro razones:</p>\n<p>¡Es súper fácil!: solo tenéis que \"arrastrar y soltar\" vuestras fotos, vídeos y audios. ¡En un par de clics tendréis vuestro montaje listo!<br />Máxima Privacidad: no necesitamos correos, ni registros, ni contraseñas. Todo vuestro trabajo se queda en vuestro ordenador. ¡Vuestros datos están a salvo!<br />Para tod@s: Si queréis seguir trabajando en casa, podéis descargarlo gratis en cualquier ordenador. Es legal, ético y libre de virus.<br />Multicapa: Podréis poner música de fondo, vuestra voz por encima y títulos chulos al mismo tiempo.<br />📝 CryptPad: Vuestro guion compartido<br />Antes de grabar, hay que escribir. Para ello usaremos CryptPad. Es como una hoja de papel mágica donde todo el equipo puede escribir a la vez desde distintos ordenadores.</p>\n<p>Lo mejor: todo lo que escribáis está cifrado. Nadie más que vuestro equipo y yo podrá leer vuestro guion.<br /> <br />💡 CONSEJOS DE CRONISTA:<br />Sé ético: Recuerda usar imágenes y música de nuestro Symbaloo (son libres y seguras).<br />Guarda a menudo: Aunque OpenShot es muy estable, ¡no te olvides de darle al botón de guardar proyecto!<br />Ayuda a tu equipo: Si dominas una herramienta, conviértete en el \"Experto Digital\" de tu grupo y echa un cable a los demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwr-yt2qt3zue</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Seguridad y privacidad digital</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Seguridad y privacidad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4- SEGURIDAD Y PRIVACIDAD DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Seguridad y privacidad digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwr-yt2qt3zue</odePageId>
+      <odeBlockId>block-1778174377378-7ntotibsv</odeBlockId>
+      <blockName></blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwr-yt2qt3zue</odePageId>
+          <odeBlockId>block-1778174377378-7ntotibsv</odeBlockId>
+          <odeIdeviceId>idevice-1778174377377-x6vmjedku</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><img src="{{context_path}}/content/resources/derechos_y_seguridad_digital_completo.png" title="Seguridad y privacidad digital" width="700" height="1752" alt="Seguridad y privacidad digital" /><br /></p>
+<p style="text-align: center;"><a href="https://canva.link/8udzhm153d8asa7" title="">Enlace a la misma infografía sobre protección de datos y derechos digitales.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174377377-x6vmjedku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/derechos_y_seguridad_digital_completo.png\" title=\"Seguridad y privacidad digital\" width=\"700\" height=\"1752\" alt=\"Seguridad y privacidad digital\" /><br /></p>\n<p style=\"text-align: center;\"><a href=\"https://canva.link/8udzhm153d8asa7\" title=\"\">Enlace a la misma infografía sobre protección de datos y derechos digitales.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwr-8n9d1zx89</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Caja de herramientas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Caja de herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6- CAJA DE HERRAMIENTAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Caja de herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwr-8n9d1zx89</odePageId>
+      <odeBlockId>block-1778174987223-oq1dqdxsv</odeBlockId>
+      <blockName>Herramientas para el alumnado</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwr-8n9d1zx89</odePageId>
+          <odeBlockId>block-1778174987223-oq1dqdxsv</odeBlockId>
+          <odeIdeviceId>idevice-1778174987222-367rwmzi8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><a href="https://www.symbaloo.com/shared/AAAABqvaJT4AA42ADtHchA==" title="">Herramientas para el alumnado</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174987222-367rwmzi8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><a href=\"https://www.symbaloo.com/shared/AAAABqvaJT4AA42ADtHchA==\" title=\"\">Herramientas para el alumnado</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mplhdbwr-8n9d1zx89</odePageId>
+      <odeBlockId>block-1779671241574-pwttax7n1</odeBlockId>
+      <blockName>Herramientas para el día a día del profesorado</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwr-8n9d1zx89</odePageId>
+          <odeBlockId>block-1779671241574-pwttax7n1</odeBlockId>
+          <odeIdeviceId>idevice-1779671241572-pagslwxw2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/szkfgimf0qyw4u0d" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779671241572-pagslwxw2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/szkfgimf0qyw4u0d\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbws-im2eb6ibf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3- GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbws-im2eb6ibf</odePageId>
+      <odeBlockId>block-1779641880119-ox6s6v601</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbws-im2eb6ibf</odePageId>
+          <odeBlockId>block-1779641880119-ox6s6v601</odeBlockId>
+          <odeIdeviceId>idevice-1779641880118-gz8yusz0o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="900" height="450" src="{{context_path}}/content/resources/TAREAS Y CRITERIOS DE EVALUACIÓN.pdf"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779641880118-gz8yusz0o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"900\" height=\"450\" src=\"{{context_path}}/content/resources/TAREAS Y CRITERIOS DE EVALUACIÓN.pdf\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbws-5kaezsfpy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Hoja de ruta</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Hoja de ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7- HOJA DE RUTA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Hoja de ruta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbws-5kaezsfpy</odePageId>
+      <odeBlockId>block-1778175327831-guts6zue9</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbws-5kaezsfpy</odePageId>
+          <odeBlockId>block-1778175327831-guts6zue9</odeBlockId>
+          <odeIdeviceId>idevice-1778175327830-9fhycf99r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Cómo, cuándo y dónde vamos a trabajar? Aquí detallamos el camino que vamos a seguir:</p>
+<p style="text-align: center;"><a href="{{context_path}}/content/resources/linea_temporal_1714.png" title="linea_temporal_1714.png" target="_blank" rel="noopener"><img src="{{context_path}}/content/resources/linea_temporal_1337.png" title="Línea temporal" width="1338" height="1069" alt="Línea temporal" /></a></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><a href="https://canva.link/9cwnw8eqtcuxa92" title="">Enlace a la misma infografía en canva.</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175327830-9fhycf99r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Cómo, cuándo y dónde vamos a trabajar? Aquí detallamos el camino que vamos a seguir:</p>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/linea_temporal_1714.png\" title=\"linea_temporal_1714.png\" target=\"_blank\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/linea_temporal_1337.png\" title=\"Línea temporal\" width=\"1338\" height=\"1069\" alt=\"Línea temporal\" /></a></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><a href=\"https://canva.link/9cwnw8eqtcuxa92\" title=\"\">Enlace a la misma infografía en canva.</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwt-bqtgyj20b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. ¿Cómo evaluamos?</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. ¿Cómo evaluamos?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8- ¿CÓMO NOS EVALUAMOS?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. ¿Cómo evaluamos?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwt-bqtgyj20b</odePageId>
+      <odeBlockId>block-1778175598532-c2dgp2znb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwt-bqtgyj20b</odePageId>
+          <odeBlockId>block-1778175598532-c2dgp2znb</odeBlockId>
+          <odeIdeviceId>idevice-1778175598531-0wf4ewtbl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>EVALUACIÓN DIGITAL: PROYECTO "CRONISTAS DIGITALES"</strong></p>
+<p><br />Docente: Pilar Lozano </p>
+<p>Nivel: 6.º de Primaria </p>
+<p>SdA: Ecos de revolución</p>
+<p>Para este proyecto, he diseñado una estrategia de evaluación basada en la triangulación de datos. No solo evaluaré el resultado final, sino también el proceso colaborativo y la percepción del alumnado, utilizando las tecnologías digitales proporcionadas por el centro y herramientas en abierto.</p>
+<p><strong>Instrumento 1. Rúbrica analítica para evaluar el producto final (editada con Canva)</strong></p>
+<ul>
+<li>Qué evalúa: El videotutorial histórico realizado con OpenShot. Se centra en 5 indicadores (20% cada uno): Contenido Histórico, Creación Digital, Uso de Licencias, Trabajo en Equipo y Expresión Oral.</li>
+<li>Momento de aplicación: Se aplica al finalizar la Sesión 9, durante la visualización de los trabajos, permitiendo una evaluación criterial objetiva.</li>
+<li>Obtención de datos y variables: Los datos se recogen de forma cualitativa y cuantitativa.</li>
+<li>Variables: Ante la variable de la "brecha digital" (el alumnado con menor destreza técnica), la rúbrica compensa valorando el rigor histórico y la colaboración, garantizando que el aprendizaje sea global.</li>
+<li>Análisis: Los resultados me sirven para validar si los recursos curados en Symbaloo han sido efectivos. Si muchos fallan en Licencias, reajustaré mi práctica docente para el siguiente módulo.</li>
+</ul>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/rubrica_900.png" title="Rúbrica para evaluar el producto final" width="900" height="506" alt="Rúbrica para evaluar el producto final" /></p>
+<p style="text-align: center;"><a href="https://canva.link/gxlwh9canwdn0xe" title="">https://canva.link/gxlwh9canwdn0xe</a></p>
+<p><br /><strong> Instrumento 2. Diana de autoevaluación y coevaluación (editada con Genially)</strong></p>
+<ul>
+<li>Qué evalúa: El proceso de aprendizaje y la competencia personal y social. Los 5 ejes evalúan: investigación, ayuda técnica entre iguales, manejo de herramientas, valoración y esfuerzo.</li>
+<li>Momento de aplicación: Se realiza de forma interactiva tras la fase de edición (Sesión 8) y presentación (Sesión 9).</li>
+<li>Obtención de datos y variables: * Análisis de variables: La diana permite detectar si existe una diferencia evidente entre el esfuerzo percibido por el alumnado y el resultado obtenido.</li>
+<li>Uso de datos: Más allá de la calificación, estos datos me servirán para automatizar el feedback. Si un equipo muestra una diana desequilibrada, realizaremos una reflexión grupal para mejorar la dinámica en futuros proyectos.</li>
+</ul>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="Diana de Autoevaluación" frameborder="0" src="https://view.genially.com/69ea4ec9818f545fbe970f06" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all"></iframe></div>
+</div>
+<p style="text-align: center;"><a href="https://view.genially.com/69ea4ec9818f545fbe970f06" title="">https://view.genially.com/69ea4ec9818f545fbe970f06</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175598531-0wf4ewtbl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>EVALUACIÓN DIGITAL: PROYECTO \"CRONISTAS DIGITALES\"</strong></p>\n<p><br />Docente: Pilar Lozano </p>\n<p>Nivel: 6.º de Primaria </p>\n<p>SdA: Ecos de revolución</p>\n<p>Para este proyecto, he diseñado una estrategia de evaluación basada en la triangulación de datos. No solo evaluaré el resultado final, sino también el proceso colaborativo y la percepción del alumnado, utilizando las tecnologías digitales proporcionadas por el centro y herramientas en abierto.</p>\n<p><strong>Instrumento 1. Rúbrica analítica para evaluar el producto final (editada con Canva)</strong></p>\n<ul>\n<li>Qué evalúa: El videotutorial histórico realizado con OpenShot. Se centra en 5 indicadores (20% cada uno): Contenido Histórico, Creación Digital, Uso de Licencias, Trabajo en Equipo y Expresión Oral.</li>\n<li>Momento de aplicación: Se aplica al finalizar la Sesión 9, durante la visualización de los trabajos, permitiendo una evaluación criterial objetiva.</li>\n<li>Obtención de datos y variables: Los datos se recogen de forma cualitativa y cuantitativa.</li>\n<li>Variables: Ante la variable de la \"brecha digital\" (el alumnado con menor destreza técnica), la rúbrica compensa valorando el rigor histórico y la colaboración, garantizando que el aprendizaje sea global.</li>\n<li>Análisis: Los resultados me sirven para validar si los recursos curados en Symbaloo han sido efectivos. Si muchos fallan en Licencias, reajustaré mi práctica docente para el siguiente módulo.</li>\n</ul>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/rubrica_900.png\" title=\"Rúbrica para evaluar el producto final\" width=\"900\" height=\"506\" alt=\"Rúbrica para evaluar el producto final\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://canva.link/gxlwh9canwdn0xe\" title=\"\">https://canva.link/gxlwh9canwdn0xe</a></p>\n<p><br /><strong> Instrumento 2. Diana de autoevaluación y coevaluación (editada con Genially)</strong></p>\n<ul>\n<li>Qué evalúa: El proceso de aprendizaje y la competencia personal y social. Los 5 ejes evalúan: investigación, ayuda técnica entre iguales, manejo de herramientas, valoración y esfuerzo.</li>\n<li>Momento de aplicación: Se realiza de forma interactiva tras la fase de edición (Sesión 8) y presentación (Sesión 9).</li>\n<li>Obtención de datos y variables: * Análisis de variables: La diana permite detectar si existe una diferencia evidente entre el esfuerzo percibido por el alumnado y el resultado obtenido.</li>\n<li>Uso de datos: Más allá de la calificación, estos datos me servirán para automatizar el feedback. Si un equipo muestra una diana desequilibrada, realizaremos una reflexión grupal para mejorar la dinámica en futuros proyectos.</li>\n</ul>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"Diana de Autoevaluación\" frameborder=\"0\" src=\"https://view.genially.com/69ea4ec9818f545fbe970f06\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\"></iframe></div>\n</div>\n<p style=\"text-align: center;\"><a href=\"https://view.genially.com/69ea4ec9818f545fbe970f06\" title=\"\">https://view.genially.com/69ea4ec9818f545fbe970f06</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplhdbwt-vh6d4q9ly</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Créditos y archivo fuente</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos y archivo fuente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9- CRÉDITOS Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. Créditos y archivo fuente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplhdbwt-vh6d4q9ly</odePageId>
+      <odeBlockId>block-1778176428567-s6i4wpn5r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplhdbwt-vh6d4q9ly</odePageId>
+          <odeBlockId>block-1778176428567-s6i4wpn5r</odeBlockId>
+          <odeIdeviceId>idevice-1778176428566-8k5aii7zn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CRONISTAS DIGITALES</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pilar Lozano Iglesias</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
